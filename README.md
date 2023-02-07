@@ -1,1 +1,1 @@
-My first readme Sosi
+My first readme
